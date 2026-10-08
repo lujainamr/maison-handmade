@@ -1,26 +1,32 @@
 # -project-
 
 project name :
+Maison handmade
 
 
 
-##project description:
+##project description: 
 
+Maison Handmade is a handmade crochet brand that offers unique, handcrafted products, including crochet dolls, flowers, baby accessories, and personalized gifts.
+
+Our graduation project aims to develop and implement a practical digital marketing strategy to increase brand awareness, improve social media engagement, attract potential customers, and generate more sales.
+
+Throughout the project, we will analyze the brand's current digital presence, identify its target audience, conduct competitor research, develop a content strategy, create engaging social media content, and design data-driven advertising campaigns.
+
+Our goal is to help Maison Handmade strengthen its online presence, build a loyal customer community, and achieve sustainable business growth through effective digital marketing practices.
 
 
 
 ##project team: 
-1.lujain amr 
-role:
 
-2.mariam
-role:
+1.lujain Amr Abdulaziz
 
-3.malak
-role:
+2.mariam Ahmed Reda
 
-4.ibrahim
-role:
+3.malak Ibrahim Mohamed
+
+4.Ibrahim Elsayed Ibrahim
+
 
 
 ##instructor name:
