@@ -19,7 +19,7 @@ Our goal is to help Maison Handmade strengthen its online presence, build a loya
 
 ##project team: 
 
-1.lujain Amr Abdulaziz
+1.Lujain Amr Abdulaziz
 
 2.mariam Ahmed Reda
 
