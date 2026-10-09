@@ -18,7 +18,7 @@ Our goal is to help Maison Handmade strengthen its online presence, build a loya
 
 ##
 
-### project team: 
+### 👥project team: 
 
 1.Lujain Amr Abdulaziz
 
