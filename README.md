@@ -1,10 +1,10 @@
 ## maison handmade
 
-project name :
+### project name :
 Maison handmade
 
 
-
+## 
 ### project description: 
 
 Maison Handmade is a handmade crochet brand that offers unique, handcrafted products, including crochet dolls, flowers, baby accessories, and personalized gifts.
@@ -16,8 +16,9 @@ Throughout the project, we will analyze the brand's current digital presence, id
 Our goal is to help Maison Handmade strengthen its online presence, build a loyal customer community, and achieve sustainable business growth through effective digital marketing practices.
 
 
+##
 
-##project team: 
+### project team: 
 
 1.Lujain Amr Abdulaziz
 
