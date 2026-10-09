@@ -21,9 +21,9 @@ Our goal is to help Maison Handmade strengthen its online presence, build a loya
 
 1.Lujain Amr Abdulaziz
 
-2.mariam Ahmed Reda
+2.Mariam Ahmed Reda
 
-3.malak Ibrahim Mohamed
+3.Malak Ibrahim Mohamed
 
 4.Ibrahim Elsayed Ibrahim
 
