@@ -20,21 +20,22 @@ Our goal is to help Maison Handmade strengthen its online presence, build a loya
 
 ### 👥 project team: 
 
-1.Lujain Amr Abdulaziz
+1.Lujain Amr Abdulaziz :
+
 team leader 
 business analysis
 social media management
 photography 
 
-2.Mariam Ahmed Reda
+2.Mariam Ahmed Reda :
 set objective & kpis.
 buyer persona , STP.
 
-3.Malak Ibrahim Mohamed
+3.Malak Ibrahim Mohamed :
 content calendar
 content creation , content editing , copy writing.
 
-4.Ibrahim Elsayed Ibrahim
+4.Ibrahim Elsayed Ibrahim :
 Media Buying Strategy
 Ad Campaign Planning
 Audience Targeting & Budget Allocation
