@@ -32,6 +32,9 @@ Our goal is to help Maison Handmade strengthen its online presence, build a loya
 
 ## Instructor name: Basma ezzat 
 
+##
+
+## Work Plan: Business Analysis → Situation Analysis → Objectives & KPIs → Strategy & STP → Tactics → Media Plan → Insights.
 
 ## google drive : https://drive.google.com/drive/folders/16IeTx9Wbws5zSNwQ9wzbC2MLqEwq5yMT?usp=drive_link
 
