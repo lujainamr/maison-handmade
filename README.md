@@ -22,9 +22,9 @@ Our goal is to help Maison Handmade strengthen its online presence, build a loya
 
 1.Lujain Amr Abdulaziz :
 
-team leader 
-business analysis
-social media management
+team leader,
+business analysis,
+social media management,
 photography 
 
 2.Mariam Ahmed Reda :
