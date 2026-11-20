@@ -32,12 +32,12 @@ set objective & kpis.
 buyer persona , STP.
 
 3.Malak Ibrahim Mohamed :
-content calendar
+content calendar,
 content creation , content editing , copy writing.
 
 4.Ibrahim Elsayed Ibrahim :
-Media Buying Strategy
-Ad Campaign Planning
+Media Buying Strategy,
+Ad Campaign Planning,
 Audience Targeting & Budget Allocation
 
 
